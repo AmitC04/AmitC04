@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm AMIT</h1>
 <h3 align="center">AI/ML Developer and Data Engineer</h3>
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
