@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm AMIT</h1>
-<h3 align="center">An aspiring AI Engineer from India</h3>
+<h3 align="center">AI/ML Developer and Data Engineer</h3>
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
