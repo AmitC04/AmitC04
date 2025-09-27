@@ -8,7 +8,7 @@
 Passionate about data analytics, machine learning, and app development. I enjoy turning ideas into practical solutions through data-driven insights, intelligent models, and user-friendly applications. Currently focused on improving my skills in data engineering, ML model deployment, and full-stack app development.  
 
 🌍 I'm based in India  
-✉️ You can contact me at ac747601@gmail.com  
+✉️ You can contact me at amitc220404@gmail.com  
 🧠 I'm learning Full Stack Development and Data Visualization Tools  
 
 
