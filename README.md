@@ -5,9 +5,12 @@
 <h3 align="center">An aspiring AI Engineer from India</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-- 👨‍💻 All of my projects are available at [https://amitchauhan.my.canva.site/](https://amitchauhan.my.canva.site/)
+Passionate about data analytics, machine learning, and app development. I enjoy turning ideas into practical solutions through data-driven insights, intelligent models, and user-friendly applications. Currently focused on improving my skills in data engineering, ML model deployment, and full-stack app development.  
 
-- 📫 How to reach me **amitc220404@gmail.com**
+🌍 I'm based in India  
+✉️ You can contact me at ac747601@gmail.com  
+🧠 I'm learning Full Stack Development and Data Visualization Tools  
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
