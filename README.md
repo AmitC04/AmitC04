@@ -76,7 +76,9 @@ Passionate about data analytics, machine learning, and app development. I enjoy 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AmitC04&theme=dracula)
 
 
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AmitC04&label=Profile%20views&color=blue&style=flat" alt="Profile views counter"/>
+</p>
 
 
 
