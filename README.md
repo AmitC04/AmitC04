@@ -1,9 +1,21 @@
-<h1 align="center">Hi 👋, I'm AMIT</h1>
-<h3 align="center">AI/ML Developer and Data Engineer</h3>
+<h1 align="center">Hi 👋, I'm Amit Chauhan</h1>
+
+<h3 align="center">
+🚀 Data Engineer | AI/ML Developer | Full Stack Enthusiast
+</h3>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AmitC04&label=Profile%20views&color=blue&style=flat" alt="Profile views counter"/>
+  <img src="https://komarev.com/ghpvc/?username=AmitC04&label=Profile%20views&color=blue&style=flat" />
 </p>
 
+<p align="center">
+  <a href="https://github.com/AmitC04">
+    <img src="https://img.shields.io/github/followers/AmitC04?label=Followers&style=social" />
+  </a>
+  <a href="https://github.com/AmitC04">
+    <img src="https://img.shields.io/github/stars/AmitC04?affiliations=OWNER%2CCOLLABORATOR&style=social" />
+  </a>
+</p>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
