@@ -7,11 +7,13 @@
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-Passionate about data analytics, machine learning, and app development. I enjoy turning ideas into practical solutions through data-driven insights, intelligent models, and user-friendly applications. Currently focused on improving my skills in data engineering, ML model deployment, and full-stack app development.  
+Passionate about data engineering, machine learning, and full-stack development, with hands-on experience in building real-world AI and analytics systems. I specialize in designing data pipelines, developing ML models, and creating scalable applications using modern tools and cloud platforms.
+
+I have worked on data-driven projects involving analytics dashboards, ML pipelines, and cloud-based deployments, focusing on transforming raw data into actionable insights and intelligent solutions.
 
 🌍 I'm based in India  
-✉️ You can contact me at amitc220404@gmail.com  
-🧠 I'm learning Full Stack Development and Data Visualization Tools  
+✉️ Reach me at: amitc220404@gmail.com  
+🧠 I'm currently exploring Full Stack Development, Data Visualization, and scalable ML deployment
 
 
 <!-- // #SOCIALS   -->
