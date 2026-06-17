@@ -9,10 +9,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/AmitC04">
-    <img src="https://img.shields.io/github/followers/AmitC04?label=Followers&style=social" />
-  </a>
-  <a href="https://github.com/AmitC04">
+<a href="https://github.com/AmitC04?tab=followers">
+  <img src="https://img.shields.io/github/followers/AmitC04.svg?style=social&label=Follow" />
+</a>  <a href="https://github.com/AmitC04">
     <img src="https://img.shields.io/github/stars/AmitC04?affiliations=OWNER%2CCOLLABORATOR&style=social" />
   </a>
 </p>
