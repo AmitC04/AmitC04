@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amit Chauhan</h1>
 
 <h3 align="center">
-🚀 Data Engineer | AI/ML Developer | Full Stack Enthusiast
+🚀 Data Engineer | AI/ML Researcher | Full Stack Enthusiast
 </h3>
 
 <p align="center">
